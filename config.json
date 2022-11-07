@@ -1,0 +1,18 @@
+{
+    "url": {
+        "dev_svc": "https://{}-svc.investree.id",
+        "stg_svc": "https://svc.investree.tech",
+        "dev_be": "https://{}-be.investree.id",
+        "stg_be": "https://be.investree.tech",
+        "devapi_sync": "https://devapi-sync.investree.id",
+        "stgapi_sync": "https://api-sync.investree.tech",
+        "dev_api": "https://{}-devapi.investree.id",
+        "stg_api": "https://api.investree.tech",
+        "dev_fe": "https://investree:investme!@{}.investree.id",
+        "stg_fe": "https://investree:investme!@investree.tech",
+        "dev_mobile": "https://devmobile.investree.id",
+        "stg_mobile": "https://mobile.investree.tech",
+        "dev_bo_legacy": "https://investree:investme!@{}.investree.id/backoffice",
+        "stg_bo_legacy": "https://investree:investme!@backoffice.investree.tech"
+    }
+}

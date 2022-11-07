@@ -1,0 +1,102 @@
+[
+    {
+        "address": "Jl. Jend. Sudirman Kav. 48A",
+        "province": {
+            "id": 11,
+            "name": "DKI JAKARTA"
+        },
+        "city": {
+            "id": 156,
+            "name": "JAKARTA SELATAN"
+        },
+        "district": {
+            "id": 1947,
+            "name": "SETIA BUDI"
+        },
+        "subDistrict": {
+            "id": 25453,
+            "name": "KARET SEMANGGI"
+        },
+        "postalCode": "12930"
+    },
+    {
+        "address": "Jl. Anggrek Rosliana No.1",
+        "province": {
+            "id": 11,
+            "name": "DKI JAKARTA"
+        },
+        "city": {
+            "id": 159,
+            "name": "JAKARTA BARAT"
+        },
+        "district": {
+            "id": 1968,
+            "name": "PALMERAH"
+        },
+        "subDistrict": {
+            "id": 25574,
+            "name": "KEMANGGISAN"
+        },
+        "postalCode": "11480"
+    },
+    {
+        "address": "Jl. Raya Condet No.33",
+        "province": {
+            "id": 11,
+            "name": "DKI JAKARTA"
+        },
+        "city": {
+            "id": 157,
+            "name": "JAKARTA TIMUR"
+        },
+        "district": {
+            "id": 1952,
+            "name": "KRAMAT JATI"
+        },
+        "subDistrict": {
+            "id": 25484,
+            "name": "CILILITAN"
+        },
+        "postalCode": "13640"
+    },
+    {
+        "address": "Jl. Gn. Sahari No.1",
+        "province": {
+            "id": 11,
+            "name": "DKI JAKARTA"
+        },
+        "city": {
+            "id": 160,
+            "name": "JAKARTA UTARA"
+        },
+        "district": {
+            "id": 1975,
+            "name": "PADEMANGAN"
+        },
+        "subDistrict": {
+            "id": 25619,
+            "name": "PADEMANGAN BARAT"
+        },
+        "postalCode": "14420"
+    },
+    {
+        "address": "Jl. Walikota Mustajab No.74",
+        "province": {
+            "id": 15,
+            "name": "JAWA TIMUR"
+        },
+        "city": {
+            "id": 264,
+            "name": "SURABAYA"
+        },
+        "district": {
+            "id": 3909,
+            "name": "GENTENG"
+        },
+        "subDistrict": {
+            "id": 47681,
+            "name": "KETABANG"
+        },
+        "postalCode": "60272"
+    }
+]

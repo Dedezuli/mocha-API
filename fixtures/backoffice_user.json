@@ -1,0 +1,27 @@
+{
+    "admin": {
+        "token": "c256655740e90503a2ef1806033c9598fdba4a74",
+        "id": "1215984",
+        "fullname": "QA Admin",
+        "phone_number": "091823777612873687123",
+        "mobile_prefix": "+62",
+        "mobile_prefix_int": 1,
+        "email": "qaadmin@investree.id",
+        "username": "qaadmin",
+        "password": "Brandal17"
+    },
+    "rm": {
+        "token": "6fadda51ae9ed3a88ea2cc134005f6b9b4b2ad64",
+        "id": "1158665",
+        "fullname": "QA RM",
+        "phone_number": "776655123441",
+        "mobile_prefix": "+62",
+        "mobile_prefix_int": 1,
+        "username": "qaadmin",
+        "password": "Brandal17"
+    },
+    "admin_legacy": {
+        "username": "qaadmin",
+        "password": "Brandal17"
+    }
+}

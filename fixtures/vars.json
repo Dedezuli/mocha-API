@@ -1,0 +1,19 @@
+{
+    "header_key": "0fd995845cdad839a0b312e63b98d00e7ac199de",
+    "header_token": "eyJhbGciOiJIUzUxMiJ9.eyJyb2xlIjoibXVzdCBnZXQgcm9sZSBmcm9tIG1zIiwidXNlclR5cGUiOiIxIiwiZXhwIjoxNTU3MjA1NTg3LCJ1c2VySWQiOiI3IiwiaWF0IjoxNTU3MTE5MTg3fQ.qbYHBWtHTNDvxorfRhfAwIo5tgp9jiXQ6m4k2YEmNMt2pPh7KU-J2ZJAgFNvSpxBg5hlfExTg7NpFJrrKEeI8Q",
+    "header_signature": "b4313ecd1b18d3bf816fb4e686f4b4935ca1c4a331e7c5df5ccebfb5fee30db1",
+    "default_password": "Brandal17",
+    "devapi_sync_auth": "aW52ZXN0cmVlOmludmVzdG1lIQ==",
+    "devapi_sync_key_investree": "VUvqUF2tpB3NW4YPR1tOmtOHVi5yNGprUcPFE8EWHKmDsPdkMrBGMYgNZpHASOwd",
+    "legacy_app_key": "KvoiLoApRyPIgWRmDfiIQ3Gn9IYZJqhf",
+    "be_aes_key": "F8I2tWNf64CCCwle6oI0iPe8hLdktNnFKHh5MNZWPkIwmCXkY5qtvSArPF6BtuAohg1QYDUSortlrIR5iwnqXParNH9mtzyNAJds0rFYksxjM60a2UDCM00Qn43MnrVKuIy08H7GcXUx2uo7WF041JiA4bjpGr0CgkNox7O8TnCcPsDNrGjFz3nSGmIDiBknU6iyZxk4sVljVenyoFZPSGtGj8qP9NiaTwRomRzZyM9WUhbKvPHofcM0uzevAKf2",
+    "be_aes_iv": "etulQvAENQkwfyi8",
+    "keyMbizQR": "4snkf78j-09ks-9yi8-a51i-d7yf",
+    "keyMbizDM": "9823k0933-8s93-73m0-733j-o94h",
+    "keyPartnerBukalapak": "PXmSII-yBimvx4-PGb6oFv",
+    "keyBilltree": "11cf39c61-k2Ge-b5Jx-ty23-f35c",
+    "keyADW": "b782173a-f317-1bdf-4b61-ee21",
+    "keyGaruda": "385cb424-85cb-5cb4-cb42-b424",
+    "keyInamart": "405c735f-05c7-5c73-c735-735f",
+    "keyPartnerGramindo": "568bcd84-55af-1b42-6500-d79c"
+}

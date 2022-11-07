@@ -1,0 +1,72 @@
+{
+    "title": "master data bank schema",
+    "type": "array",
+    "items": {
+        "required": [
+            "id",
+            "sort",
+            "shortname",
+            "name",
+            "tokopediaName",
+            "hostToHostCode",
+            "hostToHostName",
+            "city",
+            "code",
+            "kemenkeuCode",
+            "swift",
+            "createDate",
+            "createBy",
+            "status",
+            "latestUpdate"
+        ],
+        "properties": {
+            "id": {
+                "type": "integer"
+            },
+            "sort": {
+                "type": ["integer", "null"]
+            },
+            "shortname": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "tokopediaName": {
+                "type": "string"
+            },
+            "hostToHostCode": {
+                "type": ["string", "null"],
+                "pattern": "^[0-9]*"
+            },
+            "hostToHostName": {
+                "type": ["string", "null"]
+            },
+            "city": {
+                "type": ["string", "null"]
+            },
+            "code": {
+                "type": ["string", "null"],
+                "pattern": "^[0-9]*"
+            },
+            "kemenkeuCode": {
+                "type": ["integer", "null"]
+            },
+            "swift": {
+                "type": ["string", "null"]
+            },
+            "createDate": {
+                "type": "string"
+            },
+            "createBy": {
+                "type": ["integer", "null"]
+            },
+            "status": {
+                "type": ["string", "null"]
+            },
+            "latestUpdate": {
+                "type": "string"
+            }
+        }
+    }
+}

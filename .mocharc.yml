@@ -1,0 +1,12 @@
+retries: 3
+timeout: 70000
+sort: true
+reporter: 'mochawesome'
+reporter-options:
+    - 'code=false'
+    - 'charts=true'
+exit: true
+recursive: true
+require:
+    - module-alias/register
+ui: 'bdd'
